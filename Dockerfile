@@ -1,4 +1,4 @@
-# base image
+﻿# base image
 # https://hub.docker.com/_/mysql?tab=tags
 FROM mysql:5.7
 # EXPOSE: Dockerが公開するポートを指定
